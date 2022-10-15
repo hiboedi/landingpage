@@ -21,7 +21,7 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <StickyProvider>
         <Layout>
-          <SEO title="StartupLandinng" />
+          <SEO title="StarupLanding #ProBuild" />
           <Banner />
           <KeyFeature />
           <ServiceSection />
