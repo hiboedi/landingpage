@@ -11,10 +11,10 @@ export default function Banner() {
       <Container sx={styles.banner.container}>
         <Box sx={styles.banner.contentBox}>
           <Heading as="h1" variant="heroPrimary">
-            Top Quality Digital Products To Explore
+            IQBAL PACHENKO
           </Heading>
           <Text as="p" variant="heroSecondary">
-            IQBAL PACHENKO.
+            Bangun website yang sempurna untuk bisnis anda bersama kami sekarang.
           </Text>
           <Button variant="primary">Explore</Button>
         </Box>
