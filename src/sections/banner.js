@@ -14,7 +14,7 @@ export default function Banner() {
             Top Quality Digital Products To Explore
           </Heading>
           <Text as="p" variant="heroSecondary">
-            Bangun website yang sempurna untuk bisnis anda bersama kami sekarang.
+            IQBAL PACHENKO.
           </Text>
           <Button variant="primary">Explore</Button>
         </Box>
